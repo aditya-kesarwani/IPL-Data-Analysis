@@ -17,7 +17,6 @@ This project analyzes IPL cricket player data using python, Pandas, and Matplotl
 - Python
 - Pandas
 - Matplotlib
-- Numpy
 
 ## Project Output
 This project cleans IPL data and visualizes player performance using charts.
